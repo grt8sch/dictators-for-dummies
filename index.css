@@ -113,6 +113,7 @@ nav > a{
   text-decoration: underline;
   color: yellow;
   display: block;
+  font-size: 20px;
 }
 #navbutton{
   position: absolute;
